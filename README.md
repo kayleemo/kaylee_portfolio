@@ -6,7 +6,7 @@ As someone who is concerned about the changes happening to the global climate ri
 The full project can be found here: <https://github.com/kayleemo/co2-emissions>
 
 ## Predicting the Mid-Career Salary of Undergraduate Students
-As I am nearing college graduation, I became curious about what, and if there are any, characteristics of colleges that lead to higher monetary returns (salary) after four-years of university. I created a regression prroblem with multiple predictors to see if I could find a relationship between them and my response variable (mid-career salary).
+As I am nearing college graduation, I became curious about what, and if there are any, characteristics of colleges that lead to higher monetary returns (salary) after four-years of university. I created a regression problem with multiple predictors to see if I could find a relationship between them and my response variable (mid-career salary).
 
 The full project can be found here: <https://github.com/kayleemo/ds1-final>
 
